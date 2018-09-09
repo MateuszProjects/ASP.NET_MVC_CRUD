@@ -68,7 +68,6 @@ C:\Users\x\source\repos\ASP.NETApplication\ASP.NETApplication\bin\Microsoft.AI.D
 C:\Users\x\source\repos\ASP.NETApplication\ASP.NETApplication\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\x\source\repos\ASP.NETApplication\ASP.NETApplication\bin\Microsoft.AI.Web.xml
 C:\Users\x\source\repos\ASP.NETApplication\ASP.NETApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\x\source\repos\ASP.NETApplication\ASP.NETApplication\obj\Debug\ASP.NETApplication.csprojAssemblyReference.cache
 C:\Users\x\source\repos\ASP.NETApplication\ASP.NETApplication\obj\Debug\ASP.NETApplication.csproj.CoreCompileInputs.cache
 C:\Users\x\source\repos\ASP.NETApplication\ASP.NETApplication\obj\Debug\ASP.NETApplication.csproj.CopyComplete
 C:\Users\x\source\repos\ASP.NETApplication\ASP.NETApplication\obj\Debug\ASP.NETApplication.dll

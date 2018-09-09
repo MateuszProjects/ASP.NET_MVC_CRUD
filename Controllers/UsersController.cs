@@ -15,9 +15,9 @@ namespace ASP.NETApplication.Controllers
         private StoreEntities db = new StoreEntities();
 
         // GET: Users
-        public ActionResult Index()
+        public ActionResult Index(string searching)
         {
-            return View(db.Users.ToList());
+            return View(db.Users.Where(x=>x.FirstName.Contains(searching) || searching == null).ToList());
         }
 
         // GET: Users/Details/5
